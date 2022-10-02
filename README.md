@@ -2,6 +2,6 @@
 
 Creating my first HTML and CSS project with Github source control. 
 
-##first step 
+## First step 
 
 source control
